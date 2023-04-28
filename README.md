@@ -31,4 +31,4 @@ typedef struct hal_modem {
 ```
 ## 使用方法
 参考stm32F1xxIAP启动加载引导程序设计。
-链接：<>
+链接：<https://github.com/Jc-Lx/stm32F1xxIAP>
